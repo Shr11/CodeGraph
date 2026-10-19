@@ -1,7 +1,5 @@
 # CodeGraph
 
-# CodeGraph
-
 **An agent that reasons over your codebase as a graph.**
 Built for [WeMakeDevs x FalkorDB "Graph Hacks"](https://www.wemakedevs.org/hackathons/falkordb)
 — Track 01: *Agents That Act on Connected Data*.
@@ -26,7 +24,7 @@ reasoning is traceable, not a black box. A zero-AI-cost "Start Here" card
 (built from the same graph tools, no Gemini call) also orients a new visitor
 the moment the page loads.
 
-**What makes this different from a generic "code Q&A" tool (including
+**What makes this different from a"code Q&A" tool (including
 FalkorDB's own [code-graph](https://github.com/FalkorDB/code-graph) demo):
 memory.** Click "📌 Save as team insight" on any answer, and it's written
 back into the graph as an `:Insight` node linked to the exact code it's
@@ -89,7 +87,7 @@ docs/
   FALKORDB_LEARNING.md Cypher cheat sheet + how to start contributing to FalkorDB
 ```
 
-## Learn more / rebuild it yourself
+## Learn more 
 
 This project was deliberately documented as a teaching artifact, not just a
 submission:
